@@ -1,6 +1,6 @@
 # cafeindependent.github.io
 
-Café Independent is a nonexistent café and bakery in Paris and this repository was created to host it's website, with was made "in addition" to flyer/menu I had asked to make as a homework at university.
+Café Independent is a nonexistent café and bakery in Paris and this repository was created to host it's website, which was made "in addition" to flyer/menu I had asked to make as a homework at university.
 
 ## Contributing
 
